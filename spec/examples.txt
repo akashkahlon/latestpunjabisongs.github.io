@@ -1,4 +1,4 @@
 example_id                                       | status | run_time        |
 ------------------------------------------------ | ------ | --------------- |
-./spec/routing/health_check_routing_spec.rb[1:1] | passed | 0.20355 seconds |
-./spec/routing/home_routing_spec.rb[1:1]         | passed | 0.00107 seconds |
+./spec/routing/health_check_routing_spec.rb[1:1] | passed | 0.0045 seconds  |
+./spec/routing/home_routing_spec.rb[1:1]         | passed | 0.00086 seconds |
